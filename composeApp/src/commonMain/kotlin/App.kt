@@ -24,7 +24,7 @@ fun App() {
 fun Screen() {
     Scaffold(
         topBar = {
-            Text("Top bar")
+            Text("Topitop bar")
         },
         content = {
             Column(
